@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/book")
 public class CorsSetting {
 
+	
 	@PostMapping("/")
 	@CrossOrigin(value="http://localhost:8081",maxAge=1800,allowedHeaders="*")
 	public String addBook(String name) {
