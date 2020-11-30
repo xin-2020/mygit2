@@ -10,6 +10,7 @@ public class MainTest {
 		System.out.println("java是这个世界上最牛逼的语言！");
 		System.out.println("java是这个世界上最牛逼的语言！");
 		System.out.println("java是这个世界上最牛逼的语言！");
+		System.out.println("java是这个世界上最牛逼的语言！");
 		
 	}
 
